@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IoT_LBS</string>
+    <string name="enter_room">Enter_Room</string>
+    <string name="ok">OK</string>
+    <string name="light">Light</string>
+    <string name="noise">Noise</string>
+    <string name="image_content_description">Image_Content_Description</string>
+    <string name="lightonoff">Lightonoff</string>
+    <string name="ringonoff">Ringonoff</string>
+    <string name="set_Home">set_Home</string>
+    <string name="near_Home">near_Home</string>
+
+</resources>
